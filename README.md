@@ -3,14 +3,14 @@
   <p align="center">
     
     
-<a href="#"><img title="LIZA MWOL" src="https://img.shields.io/badge/LIZA MWOL-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="JAANU-MOWL" src="https://img.shields.io/badge/JAANU-MOWL-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href=https://github.com/FAYASSERV4"><img title="Author" src="https://img.shields.io/badge/Author-(hunk!nd3 p4d4y41!-LIZAMWOL?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/FAYASSERV4">LIZA MWOL</a> to make it public
+Project created by <a href="https://github.com/FAYASSERV4">JAANU-MOWL</a> to make it public
     <br>
        | © |
         Reserved |
@@ -22,7 +22,7 @@ Project created by <a href="https://github.com/FAYASSERV4">LIZA MWOL</a> to make
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FAYASSERV4/JAANU-MOWL) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FAYASSERV4/LIZA-MWOL) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@FAYASSERV4/LizaMwol?v=1)
   
@@ -31,8 +31,8 @@ Project created by <a href="https://github.com/FAYASSERV4">LIZA MWOL</a> to make
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/FAYASSERV4/JAANU-MOWL
-$ cd JAANU-MOWL
+$ git clone https://github.com/FAYASSERV4/LIZA-MWOL
+$ cd LIZA-MWOL
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node Liza.js
@@ -40,8 +40,8 @@ $ node Liza.js
       
 ```js
 SETUP
-$ git clone https://github.com/FAYASSERV4/JAANU-MOWL
-$ cd JAANU-MOWL
+$ git clone https://github.com/FAYASSERV4/LIZA-MWOL
+$ cd LIZA-MWOL
 $ npm i
 $ node Liza.js
 ```
@@ -49,16 +49,16 @@ $ node Liza.js
 ----
 
   <p align="center">
-  <a href="https://github.com/FAYASSERV4/JAANU-MOWL">
+  <a href="https://github.com/FAYASSERV4/LIZA-MWOL">
     
 <a href="https:https://github.com/FAYASSERV4?tab=followers">
-<img src="https://img.shields.io/github/repo-size/FAYASSERV4/JAANU-MOWL?color=green&label=Repo%20total%20size&style=plastic">
+<img src="https://img.shields.io/github/repo-size/FAYASSERV4/LIZA-MWOL?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/FAYASSERV4/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/FAYASSERV4?color=blue&style=flat-square"></a>
-<a href="https://github.com/FAYASSERV4/JAANU-MOWL/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/FAYASSERV4/JAANU-MOWL?color=blue&style=flat-square"></a>
-<a href="https://github.com/FAYASSERV4/JAANU-MOWL/network/members"><img title="Forks" src="https://img.shields.io/github/forks/FAYASSERV4/JAANU-MOWL?color=blue&style=flat-square"></a>
-<a href="https://github.com/FAYASSERV4/JAANU-MOWL/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/FAYASSERV4/JAANU-MOWL?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/FAYASSERV4/LIZA-MWOL/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/FAYASSERV4/LIZA-MWOL?color=blue&style=flat-square"></a>
+<a href="https://github.com/FAYASSERV4/LIZA-MWOL/network/members"><img title="Forks" src="https://img.shields.io/github/forks/FAYASSERV4/LIZA-MWOL?color=blue&style=flat-square"></a>
+<a href="https://github.com/FAYASSERV4/LIZA-MWOL/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/FAYASSERV4/LIZA-MWOL?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@ $ node Liza.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/FAYASSERV4/JAANU-MOWL/blob/master/WhatsAsena.png)](https://chat.whatsapp.com/BRPbS6JHUoCE480MpLLM5z)
+  [![join](https://github.com/FAYASSERV4/LIZA-MWOL/blob/master/WhatsAsena.png)](https://chat.whatsapp.com/BRPbS6JHUoCE480MpLLM5z)
   <div align="center">
        
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FAYASSERV4&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
